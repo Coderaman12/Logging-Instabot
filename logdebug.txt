@@ -1,0 +1,101 @@
+2022-07-09 20:03:34:INFO:Instabot version: 0.117.0 Started
+2022-07-09 20:03:34:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-09 20:03:34:INFO:bot initilization.
+2022-07-09 20:03:42:INFO:application initilized.
+2022-07-09 20:05:30:INFO:Instabot version: 0.117.0 Started
+2022-07-09 20:05:30:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-09 20:05:30:INFO:bot initilization.
+2022-07-09 20:05:38:INFO:Instabot version: 0.117.0 Started
+2022-07-09 20:05:38:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-09 20:05:38:INFO:bot initilization.
+2022-07-09 20:05:46:INFO:application initilized.
+2022-07-09 20:06:51:INFO:Not yet logged in starting: PRE-LOGIN FLOW!
+2022-07-09 20:06:51:DEBUG:Starting new HTTPS connection (1): i.instagram.com:443
+2022-07-09 20:06:52:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/get_prefill_candidates/ HTTP/1.1" 200 81
+2022-07-09 20:06:52:DEBUG:POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2022-07-09 20:06:52:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-09 20:06:52:DEBUG:https://i.instagram.com:443 "POST /api/v1/qe/sync/ HTTP/1.1" 200 972
+2022-07-09 20:06:52:DEBUG:POST to endpoint: qe/sync/ returned response: <Response [200]>
+2022-07-09 20:06:52:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-09 20:06:54:DEBUG:https://i.instagram.com:443 "POST /api/v1/launcher/sync/ HTTP/1.1" 200 858
+2022-07-09 20:06:54:DEBUG:POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2022-07-09 20:06:54:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-09 20:06:54:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/contact_point_prefill/ HTTP/1.1" 200 15
+2022-07-09 20:06:54:DEBUG:POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2022-07-09 20:06:54:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-09 20:06:57:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/login/ HTTP/1.1" 400 222
+2022-07-09 20:06:57:DEBUG:POST to endpoint: accounts/login/ returned response: <Response [400]>
+2022-07-09 20:06:57:DEBUG:Responsecode indicates error; response content: b'{"message":"The password you entered is incorrect. Please try again.","invalid_credentials":true,"error_title":"Incorrect password","buttons":[{"title":"OK","action":"dismiss"}],"status":"fail","error_type":"bad_password"}'
+2022-07-09 20:06:57:ERROR:Request returns 400 error!
+2022-07-09 20:06:57:INFO:Instagram's error message: The password you entered is incorrect. Please try again.
+2022-07-09 20:06:57:INFO:Error type: bad_password
+2022-07-09 20:06:57:ERROR:Failed to login go to instagram and change your password
+2022-07-09 20:06:57:INFO:Username or password is incorrect.
+2022-07-09 20:07:04:INFO:Instabot version: 0.117.0 Started
+2022-07-09 20:07:04:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-09 20:07:04:INFO:bot initilization.
+2022-07-09 20:07:12:INFO:application initilized.
+2022-07-09 20:07:36:INFO:Instabot version: 0.117.0 Started
+2022-07-09 20:07:36:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-09 20:07:36:INFO:bot initilization.
+2022-07-09 20:07:44:INFO:application initilized.
+2022-07-09 20:09:36:INFO:Instabot version: 0.117.0 Started
+2022-07-09 20:09:36:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-09 20:09:36:INFO:bot initilization.
+2022-07-09 20:09:44:INFO:application initilized.
+2022-07-09 20:10:11:INFO:Not yet logged in starting: PRE-LOGIN FLOW!
+2022-07-09 20:10:11:DEBUG:Starting new HTTPS connection (1): i.instagram.com:443
+2022-07-09 20:10:12:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/get_prefill_candidates/ HTTP/1.1" 200 81
+2022-07-09 20:10:12:DEBUG:POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2022-07-09 20:10:12:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-09 20:10:13:DEBUG:https://i.instagram.com:443 "POST /api/v1/qe/sync/ HTTP/1.1" 200 995
+2022-07-09 20:10:13:DEBUG:POST to endpoint: qe/sync/ returned response: <Response [200]>
+2022-07-09 20:10:13:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-09 20:10:15:DEBUG:https://i.instagram.com:443 "POST /api/v1/launcher/sync/ HTTP/1.1" 200 858
+2022-07-09 20:10:15:DEBUG:POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2022-07-09 20:10:15:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-09 20:10:16:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/contact_point_prefill/ HTTP/1.1" 200 15
+2022-07-09 20:10:16:DEBUG:POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2022-07-09 20:10:16:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-09 20:10:19:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/login/ HTTP/1.1" 400 222
+2022-07-09 20:10:19:DEBUG:POST to endpoint: accounts/login/ returned response: <Response [400]>
+2022-07-09 20:10:19:DEBUG:Responsecode indicates error; response content: b'{"message":"The password you entered is incorrect. Please try again.","invalid_credentials":true,"error_title":"Incorrect password","buttons":[{"title":"OK","action":"dismiss"}],"status":"fail","error_type":"bad_password"}'
+2022-07-09 20:10:19:ERROR:Request returns 400 error!
+2022-07-09 20:10:19:INFO:Instagram's error message: The password you entered is incorrect. Please try again.
+2022-07-09 20:10:19:INFO:Error type: bad_password
+2022-07-09 20:10:19:ERROR:Failed to login go to instagram and change your password
+2022-07-09 20:10:19:INFO:Username or password is incorrect.
+2022-07-09 20:10:22:INFO:Instabot version: 0.117.0 Started
+2022-07-09 20:10:22:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-09 20:10:22:INFO:bot initilization.
+2022-07-09 20:10:30:INFO:application initilized.
+2022-07-09 20:11:54:INFO:Instabot version: 0.117.0 Started
+2022-07-09 20:11:54:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-09 20:11:54:INFO:bot initilization.
+2022-07-09 20:12:02:INFO:application initilized.
+2022-07-11 12:36:43:INFO:Instabot version: 0.117.0 Started
+2022-07-11 12:36:43:DEBUG:Bot imported from C:\Users\DOORA\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-07-11 12:36:43:INFO:bot initilization.
+2022-07-11 12:36:51:INFO:application initilized.
+2022-07-11 12:37:13:INFO:Not yet logged in starting: PRE-LOGIN FLOW!
+2022-07-11 12:37:13:DEBUG:Starting new HTTPS connection (1): i.instagram.com:443
+2022-07-11 12:37:14:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/get_prefill_candidates/ HTTP/1.1" 200 81
+2022-07-11 12:37:14:DEBUG:POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2022-07-11 12:37:14:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-11 12:37:15:DEBUG:https://i.instagram.com:443 "POST /api/v1/qe/sync/ HTTP/1.1" 200 983
+2022-07-11 12:37:15:DEBUG:POST to endpoint: qe/sync/ returned response: <Response [200]>
+2022-07-11 12:37:15:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-11 12:37:15:DEBUG:https://i.instagram.com:443 "POST /api/v1/launcher/sync/ HTTP/1.1" 200 858
+2022-07-11 12:37:15:DEBUG:POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2022-07-11 12:37:15:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-11 12:37:16:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/contact_point_prefill/ HTTP/1.1" 200 15
+2022-07-11 12:37:16:DEBUG:POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2022-07-11 12:37:16:DEBUG:Resetting dropped connection: i.instagram.com
+2022-07-11 12:37:18:DEBUG:https://i.instagram.com:443 "POST /api/v1/accounts/login/ HTTP/1.1" 400 222
+2022-07-11 12:37:18:DEBUG:POST to endpoint: accounts/login/ returned response: <Response [400]>
+2022-07-11 12:37:18:DEBUG:Responsecode indicates error; response content: b'{"message":"The password you entered is incorrect. Please try again.","invalid_credentials":true,"error_title":"Incorrect password","buttons":[{"title":"OK","action":"dismiss"}],"status":"fail","error_type":"bad_password"}'
+2022-07-11 12:37:18:ERROR:Request returns 400 error!
+2022-07-11 12:37:18:INFO:Instagram's error message: The password you entered is incorrect. Please try again.
+2022-07-11 12:37:18:INFO:Error type: bad_password
+2022-07-11 12:37:18:ERROR:Failed to login go to instagram and change your password
+2022-07-11 12:37:18:INFO:Username or password is incorrect.
